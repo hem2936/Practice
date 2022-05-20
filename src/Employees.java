@@ -3,11 +3,11 @@ public class Employees {
 	
 	public void empId() {
 		System.out.println("empId - 1223564");
-		
+		System.out.println("empId - 125858964");
 	}		
 	public void empName() {
 		System.out.println("empName - Vishnu");
-				
+		System.out.println("empName - hem");	
 	}
 	public void empDob() {
 		System.out.println("empDob - 17/04/2022");		
